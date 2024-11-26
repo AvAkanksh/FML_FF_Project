@@ -20,7 +20,7 @@ training:
   downstream_lr: 0.01
   downstream_wd: 0.003
   validation_index: -1
-  final_test: false
+  final_test: true
 
 random_seed: 42
 device: cuda
